@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo_dark.svg">
+  <source srcset="logo.svg">
   <img alt="WiFiLab" src="logo.svg" width="420">
 </picture>
 
