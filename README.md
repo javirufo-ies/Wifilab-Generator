@@ -5,4 +5,4 @@
 
 # HackingEtico
 
-Laboratorios Hacking Ético
+Generación de laboratorios para pruebas de penetración en entornos inalámbricos.
